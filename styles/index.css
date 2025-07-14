@@ -118,3 +118,11 @@ body{
     background-color: var(--accent-color);
     color: var(--grey-800);
 }
+
+@media (max-width: 376px) {
+    .profile-card{
+        height: 480px;
+        width: 300px;
+        padding: 15px;
+    }
+}
