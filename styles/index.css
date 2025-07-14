@@ -113,3 +113,8 @@ body{
 
     transition: background-color 0.15s
 }
+
+.social-nav a:hover{
+    background-color: var(--accent-color);
+    color: var(--grey-800);
+}
