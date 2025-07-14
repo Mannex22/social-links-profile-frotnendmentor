@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/mannex-social-links-profile-solution-XpwsE7fzb7
 - Live Site URL: https://mannex22.github.io/social-links-profile-frotnendmentor/
 
 ## My process
